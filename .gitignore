@@ -1,1 +1,16 @@
 .DS_Store
+
+# Eclipse project files
+.classpath
+.project
+.settings
+# Idea project files
+.idea
+*.iml
+# Package Files #
+*.jar
+*.war
+*.ear
+
+*.class
+target/
